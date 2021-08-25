@@ -2,12 +2,16 @@ Changelog
 =========
 
 
-(unreleased)
-------------
+21.08.253 (2021-08-25)
+----------------------
 
 New
 ~~~
 - Changelog. [sypaik]
+
+Changes
+~~~~~~~
+- Changelog changed. [sypaik]
 
 
 21.08.252 (2021-08-25)
